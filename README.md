@@ -1,2 +1,2 @@
-# ArduinoMegaShilds
-Shilds for the Arduino Mega.
+# Arduino Mega Shields
+Shields for the Arduino Mega.

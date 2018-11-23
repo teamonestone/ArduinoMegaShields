@@ -672,53 +672,53 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="SV1" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="36.83" y="2.54" smashed="yes" rot="MR0">
-<attribute name="MF" value="" x="36.83" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="" x="36.83" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="46.99" y="4.191" size="1.27" layer="26" ratio="10" rot="MR0"/>
-<attribute name="OC_FARNELL" value="unknown" x="36.83" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="36.83" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="38.1" y="-0.381" size="1.27" layer="28" ratio="10" rot="MR0"/>
+<element name="SV1" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="36.83" y="2.54" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="36.83" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="36.83" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="46.99" y="0.889" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="36.83" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="36.83" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="38.1" y="5.461" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="SV2" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="59.69" y="2.54" smashed="yes" rot="MR0">
-<attribute name="MF" value="" x="59.69" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="" x="59.69" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="69.85" y="4.191" size="1.27" layer="26" ratio="10" rot="MR0"/>
-<attribute name="OC_FARNELL" value="unknown" x="59.69" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="59.69" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="60.96" y="-0.381" size="1.27" layer="28" ratio="10" rot="MR0"/>
+<element name="SV2" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="59.69" y="2.54" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="59.69" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="59.69" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="69.85" y="0.889" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="59.69" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="59.69" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="60.96" y="5.461" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="SV3" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="82.55" y="2.54" smashed="yes" rot="MR0">
-<attribute name="MF" value="" x="82.55" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="" x="82.55" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="92.71" y="4.191" size="1.27" layer="26" ratio="10" rot="MR0"/>
-<attribute name="OC_FARNELL" value="unknown" x="82.55" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="82.55" y="2.54" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="83.82" y="-0.381" size="1.27" layer="28" ratio="10" rot="MR0"/>
+<element name="SV3" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="82.55" y="2.54" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="82.55" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="82.55" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="92.71" y="0.889" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="82.55" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="82.55" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="83.82" y="5.461" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="SV4" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="77.47" y="50.8" smashed="yes" rot="MR0">
-<attribute name="MF" value="" x="77.47" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="" x="77.47" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="87.63" y="52.451" size="1.27" layer="26" ratio="10" rot="MR0"/>
-<attribute name="OC_FARNELL" value="unknown" x="77.47" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="77.47" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="78.74" y="47.879" size="1.27" layer="28" ratio="10" rot="MR0"/>
+<element name="SV4" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="77.47" y="50.8" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="77.47" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="77.47" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="87.63" y="49.149" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="77.47" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="77.47" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="78.74" y="53.721" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="SV5" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="54.61" y="50.8" smashed="yes" rot="MR0">
-<attribute name="MF" value="" x="54.61" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="" x="54.61" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="64.77" y="52.451" size="1.27" layer="26" ratio="10" rot="MR0"/>
-<attribute name="OC_FARNELL" value="unknown" x="54.61" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="54.61" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="55.88" y="47.879" size="1.27" layer="28" ratio="10" rot="MR0"/>
+<element name="SV5" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA08-1" package3d_urn="urn:adsk.eagle:package:8343/1" value="" x="54.61" y="50.8" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="54.61" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="54.61" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="64.77" y="49.149" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="54.61" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="54.61" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="55.88" y="53.721" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="SV6" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA10-1" package3d_urn="urn:adsk.eagle:package:8346/1" value="" x="30.48" y="50.8" smashed="yes" rot="MR0">
-<attribute name="MF" value="" x="30.48" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="" x="30.48" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="43.18" y="52.451" size="1.27" layer="26" ratio="10" rot="MR0"/>
-<attribute name="OC_FARNELL" value="unknown" x="30.48" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="30.48" y="50.8" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="29.21" y="47.879" size="1.27" layer="28" ratio="10" rot="MR0"/>
+<element name="SV6" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA10-1" package3d_urn="urn:adsk.eagle:package:8346/1" value="" x="30.48" y="50.8" smashed="yes" rot="R180">
+<attribute name="MF" value="" x="30.48" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="30.48" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="43.18" y="49.149" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="30.48" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="30.48" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="29.21" y="53.721" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="SV7" library="con-lstb" library_urn="urn:adsk.eagle:library:162" package="MA18-2" package3d_urn="urn:adsk.eagle:package:8360/1" value="" x="95.25" y="29.21" smashed="yes" rot="R270">
 <attribute name="MF" value="" x="95.25" y="29.21" size="1.778" layer="27" rot="R270" display="off"/>

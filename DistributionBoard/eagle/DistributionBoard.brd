@@ -120,8 +120,6 @@ No Pullups on Buttons
 -------------------------------</text>
 <text x="111.76" y="61.595" size="1.016" layer="25" align="center">Version
 1.0.0</text>
-<dimension x1="0" y1="0" x2="119.38" y2="0" x3="59.69" y3="-3.175" textsize="1.016" layer="25"/>
-<dimension x1="0" y1="0" x2="0" y2="64.77" x3="-3.81" y3="32.385" textsize="1.016" layer="25"/>
 <text x="102.235" y="53.975" size="1.016" layer="25" rot="R90" align="center-right">drill -&gt;</text>
 <text x="108.585" y="5.715" size="1.016" layer="25" rot="R90" align="center-right">drill -&gt;</text>
 <text x="27.305" y="5.715" size="1.016" layer="25" rot="R90" align="center-right">drill -&gt;</text>
